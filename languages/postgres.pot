@@ -1,0 +1,4 @@
+#: ./vendor/nikic/php-parser/lib/PhpParser/ParserAbstract.php:801
+msgid ""
+msgstr ""
+

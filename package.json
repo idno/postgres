@@ -1,0 +1,8 @@
+{
+  "name": "Postgres",
+  "version": "1.2.6",
+  "description": "Postgres support for Known",
+  "devDependencies": {
+    "grunt": "^1.0.3"
+  }
+}
